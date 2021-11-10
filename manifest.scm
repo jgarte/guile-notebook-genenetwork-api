@@ -1,4 +1,3 @@
-
 (specifications->manifest
   '("guile-lens"
     "guile-charting"
